@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Cheng Jian 👋
 
-<!--
-**newer027/newer027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior System Software Engineer | Autonomous Driving Middleware Expert**
 
-Here are some ideas to get you started:
+I specialize in bridging the gap between **High-Performance C++** and **Flexible Python Ecosystems**. With 15+ years of experience, I focus on building robust middleware (DDS/ROS2), toolchains, and infrastructure for autonomous vehicles and robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 Tech Stack
+* **Languages:** ![C++](https://img.shields.io/badge/-C++14/17-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+* **Core:** ROS2, DDS, Linux Kernel IPC (SHM/Futex), Docker
+* **Tools:** CMake, GDB, Valgrind, Pybind11, Qt
+
+#### 🏆 Open Source Contributions
+I am proud to have contributed to the foundations of the industry:
+* **[commaai/openpilot](https://github.com/commaai/openpilot):** Reduce repeated dictionary creations. [View PRs](https://github.com/commaai/opendbc/pull/506)
+* **[pingcap/tidb](https://github.com/pingcap/tidb):** Fix some small typos. [View PRs](https://github.com/pingcap/tidb/pull/11899)
+
+---
+[Email](mailto:newer027@gmail.com)
