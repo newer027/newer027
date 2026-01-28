@@ -14,5 +14,9 @@ I am proud to have contributed to the foundations of the industry:
 * **[commaai/openpilot](https://github.com/commaai/openpilot):** Reduce repeated dictionary creations. [View PRs](https://github.com/commaai/opendbc/pull/506)
 * **[pingcap/tidb](https://github.com/pingcap/tidb):** Fix some small typos. [View PRs](https://github.com/pingcap/tidb/pull/11899)
 
+#### Build in Public
+[https://justmarkdown.com](https://justmarkdown.com)
+[https://keebspecs.com](https://keebspecs.com)
+[https://fixpho.to](https://fixpho.to)
 ---
 [Email](mailto:newer027@gmail.com)
