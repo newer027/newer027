@@ -15,8 +15,8 @@ I am proud to have contributed to the foundations of the industry:
 * **[pingcap/tidb](https://github.com/pingcap/tidb):** Fix some small typos. [View PRs](https://github.com/pingcap/tidb/pull/11899)
 
 #### Build in Public
-[https://justmarkdown.com](https://justmarkdown.com)
-[https://keebspecs.com](https://keebspecs.com)
-[https://fixpho.to](https://fixpho.to)
+* [https://justmarkdown.com](https://justmarkdown.com)
+* [https://keebspecs.com](https://keebspecs.com)
+* [https://fixpho.to](https://fixpho.to)
 ---
 [Email](mailto:newer027@gmail.com)
